@@ -28,7 +28,7 @@ This is **not** my first web project — it is the **first project I reproduced 
 
 ### 🚀 Live Demo
 Replace the placeholder link below with your GitHub Pages URL after deploying:  
-👉 **[ https://amira713.github.io/Elzero_Template_Three/]()**
+👉 **[Click here to view the project](https://amira713.github.io/Elzero_Template_Three/)**
 
 ###  Acknowledgements
 Special thanks to Osama Elzero and Elzero Web School for the tutorial used to build this project.
@@ -63,7 +63,7 @@ Special thanks to Osama Elzero and Elzero Web School for the tutorial used to bu
 
 ## 🚀 العرض التجريبي  
 بعد النشر على GitHub Pages يمكنك وضع الرابط هنا:  
-👉 **[ https://amira713.github.io/Elzero_Template_Three/]()**
+👉 **👉 [اضغطي هنا لمعاينة المشروع](https://amira713.github.io/Elzero_Template_Three/)**
  ---
  ###  شكر وتقدير
 
